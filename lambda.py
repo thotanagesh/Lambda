@@ -3,5 +3,5 @@ sum=lambda x,y:x+y
 print(sum(10,5))
 
 import fn
-print(fn.gen_password()
+print(fn.gen_password())
 
