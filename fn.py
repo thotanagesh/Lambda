@@ -1,7 +1,7 @@
 import random
 
 def gen_password():
-    l=['@','$','#','!','*'
+    l=['@','$','#','!','*']
     upper = chr(random.randint(65,90))
     lower = chr(random.randint(97,122))
     special = random.choice(l)
