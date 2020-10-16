@@ -3,7 +3,7 @@ from abc import ABC,abstractmethod
 class abs(ABC):
 	@abstractmethod
 	def display(self):
-		print('IN ABSTRACT METHOD'
+		print('IN ABSTRACT METHOD')
 
 class B(abs):
 	def display(self):
