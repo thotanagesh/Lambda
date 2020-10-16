@@ -2,7 +2,7 @@ class salary:
 	def __init__(self,pay):
 		self.pay=pay
 	def get_total(self):
-		return(self.pay*12)
+		return(self.pay*12
 
 class emp:
 	def __init__(self,ipay,bonus):
