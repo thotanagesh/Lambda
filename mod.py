@@ -6,7 +6,7 @@ def display():
     print('hello')
     print(__name__)
     #print(dir(display))
-display()
+display
 #print(dir())
 #print(dir(fn))
 print(display.__doc__)
