@@ -8,7 +8,7 @@ class person():
 		print('Name:',self.name)
 		print("Age:",self.age)
 
-p=person('Ravi Teja',19)
+p=person('Ravi Teja',19
 print(hasattr(p,p.name))
 #print(hasattr(p,p.sec))
 print(getattr(p,p.name))
